@@ -64,3 +64,8 @@ div>h3 {
     top: -300px;
     left: 1200px;
 }
+
+#video {
+    display: block;
+    margin: 0 auto;
+}
