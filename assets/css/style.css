@@ -49,23 +49,43 @@ div>h3 {
     text-decoration: underline;
 }
 
-#august {
-    margin: 25px 0 0 100px;
+.events {
+    text-align: center;
 }
 
-#september {
-    position: relative;
-    top: -150px;
-    left: 650px;
+.events li {
+    padding: 20px;
+    list-style-type: none;
+    display: inline-block;
+    font-size: large;
+    font-family: space-grotesk, sans-serif;
+    background-color: pink;
+
 }
 
-#october {
-    position: relative;
-    top: -300px;
-    left: 1200px;
+#august>h3,
+#september>h3,
+#october>h3 {
+    text-align: center;
+    font-family: jost, sans-serif;
+    font-size: large;
 }
 
 #video {
     display: block;
     margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer>a {
+    font-size: large;
+    text-decoration: none;
+    padding: 0 100px;
+    text-transform: uppercase;
 }
