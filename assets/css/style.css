@@ -42,13 +42,6 @@ h2 {
     font-size: xx-large;
 }
 
-div>h3 {
-    font-family: space-grotesk, sans-serif;
-    letter-spacing: 2px;
-    font-weight: bold;
-    text-decoration: underline;
-}
-
 .events {
     text-align: center;
 }
@@ -67,8 +60,11 @@ div>h3 {
 #september>h3,
 #october>h3 {
     text-align: center;
-    font-family: jost, sans-serif;
+    font-family: space-grotesk, sans-serif;
     font-size: large;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 #video {
@@ -99,24 +95,6 @@ footer>a {
     border-radius: 12px;
 }
 
-.spotify {
-    width: 33%;
-    position: relative;
-    display: inline-block;
-}
-
-#digital {
-    position: relative;
-    left: 500px;
-    top: -360px;
-}
-
-#raggamuffin {
-    position: relative;
-    left: 1000px;
-    top: -720px;
-}
-
 #about {
     text-align: center;
     font-size: x-large;
@@ -132,4 +110,26 @@ footer>a {
     font-style: italic;
     color: rgb(4, 87, 4);
     padding-bottom: 50px;
+}
+
+#spotify {
+    height: 400px;
+}
+
+#train {
+    float: left;
+    width: 33%;
+    height: 400px;
+}
+
+#digital {
+    float: left;
+    width: 33%;
+    height: 400px;
+}
+
+#raggamuffin {
+    float: right;
+    width: 33%;
+    height: 400px;
 }
