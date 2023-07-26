@@ -100,8 +100,36 @@ footer>a {
 }
 
 .spotify {
-    margin-top: 50px;
-    width: 75%;
+    width: 33%;
     position: relative;
-    left: 200px;
+    display: inline-block;
+}
+
+#digital {
+    position: relative;
+    left: 500px;
+    top: -360px;
+}
+
+#raggamuffin {
+    position: relative;
+    left: 1000px;
+    top: -720px;
+}
+
+#about {
+    text-align: center;
+    font-size: x-large;
+}
+
+#about>h3 {
+    text-transform: uppercase;
+    font-family: jost, sans-serif;
+}
+
+#about>p {
+    font-family: space-grotesk, sans-serif;
+    font-style: italic;
+    color: rgb(4, 87, 4);
+    padding-bottom: 50px;
 }
