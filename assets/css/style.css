@@ -182,6 +182,21 @@ input[type=submit]:hover {
         padding: 15px;
     }
 
+    .youtube {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+        height: 0;
+    }
+
+    #video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
     footer>a {
         padding: 10px;
     }
@@ -201,4 +216,27 @@ input[type=submit]:hover {
     #about>p {
         margin: 0 auto;
     }
+}
+
+@media screen and (max-width: 1100px) {
+
+    .youtube {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+        height: 0;
+    }
+
+    #video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .events>li {
+        padding: 10px;
+    }
+
 }
