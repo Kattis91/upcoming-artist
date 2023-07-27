@@ -53,7 +53,6 @@ h2 {
     font-size: large;
     font-family: space-grotesk, sans-serif;
     background-color: pink;
-
 }
 
 #august>h3,
@@ -109,7 +108,7 @@ footer>a {
     font-family: space-grotesk, sans-serif;
     font-style: italic;
     color: rgb(4, 87, 4);
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 #spotify {
@@ -139,18 +138,31 @@ footer>a {
     background-color: rgb(245, 235, 235);
     max-width: 450px;
     padding: 25px;
+    margin: 0 auto;
 }
 
-input[type=text],
-input[type=email],
-input[type=tel] {
+.fill-in {
     width: 100%;
     height: 25px;
     margin-bottom: 25px;
     margin-top: 5px;
-    border-radius: 5px;
+    border-radius: 2px;
+}
+
+.fill-in:hover {
+    border-color: whitesmoke;
 }
 
 input[type=submit] {
     display: block;
+    font-size: large;
+    text-transform: uppercase;
+    background-color: pink;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+input[type=submit]:hover {
+    background-color: blueviolet;
 }

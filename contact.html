@@ -25,21 +25,22 @@
     </header>
 
     <section class="contact">
-        <form clas="fill-in">
-            <h2>Please fill in here to contact me!</h2>
+        <form>
+            <h2>For bookings and other questions, please fill in the form below!</h2>
 
             <label for="first_name">First Name</label>
-            <input id="first_name" type="text" name="first_name" required>
+            <input id="first_name" type="text" name="first_name" class="fill-in" required>
             <label for="last_name">Last Name</label>
-            <input for="last_name" type="text" name="last_name" required>
+            <input id="last_name" type="text" name="last_name" class="fill-in" required>
             <label for="email">Email Address</label>
-            <input id="email" type="email" name="email_adress" required>
+            <input id="email" type="email" name="email_adress" class="fill-in" required>
             <label for="phone">Phone number</label>
-            <input id="phone" type="tel" name="phone_number">
+            <input id="phone" type="tel" name="phone_number" class="fill-in">
             <label for="free_text">Free Text</label>
-            <textarea id="free_text" type="text" name="textarea" rows="5" cols="50" required></textarea>
+            <textarea id="free_text" type="text" name="textarea" rows="5" cols="50"
+                placeholder="Write your question here" required></textarea>
 
-            <input type="submit" value="Send in!">
+            <input type="submit" value="Send!">
         </form>
     </section>
 
