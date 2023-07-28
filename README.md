@@ -81,6 +81,53 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 - The form can also be used by the user to book Aske for gigs.
 
 
+## Testing
+
+### Validator Testing 
+
+- CSS
+  - No errors were found when passing through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator)
+- HTML
+  - Home Page
+    - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+  - Music Page
+    - Error: Bad value 100% for attribute width on element iframe: Expected a digit but saw % instead.
+  - Contact Page
+    - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+   
+### Fixed Bugs
+
+ - On smaller devices:
+
+   - the Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
+
+   - The images displayed on both the Home page and Music page would only show the left side of the picture.
+
+   - The Youtube video would appear distorted and could be challenging to view.
+  
+   - Without adjusting the footer, the link to Spotify would appear on a different line than the links to Facebook and Instagram. This would cause the alignment to look incorrect.
+  
+   - Embedded Spotify links would be too close to each other making it hard to preview the songs.
+
+
+ ## Credits
+
+ ### Media 
+ 
+  - Both of the pictures are private and were taken by my friend.
+  - The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
+  - The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
+
+ ### Content
+ 
+  - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
+
+  - I used Stack Overflow, W3Schools, and LMS to expand my knowledge and find new ideas.
+ 
+  
+    
+
+
 
 
 
