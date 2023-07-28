@@ -245,12 +245,10 @@ input[type=submit]:hover {
     }
 
     .contact {
-        width: 400px;
+        width: 350px;
     }
 
     #free_text {
-        rows: 8em;
-        cols: 5em;
+        max-width: 100%;
     }
-
 }
