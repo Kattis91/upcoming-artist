@@ -4,7 +4,6 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 ## _Features_
 
-
 ### Navigation Bar
 
 ![image](https://github.com/Kattis91/upcoming-artist/assets/139248768/66008ed1-597a-448e-8e32-71cf0acf3efa)
@@ -123,4 +122,8 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
   - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
   - I used Stack Overflow, W3Schools, and LMS to expand my knowledge and find new ideas.
+
+  - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
+
+  - Thanks to Alan, Ed, Kevin and Joshua from the Tutors team for helping med with diverse things.  
  
