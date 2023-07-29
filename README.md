@@ -75,7 +75,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 - In this section, users can fill out a form to contact Aske. They can use the free text area to write any questions they have.
 
-- When making an inquiry to Aske, the user needs to provide a name and email address in order to receive a prompt response.
+- When making an inquiry to Aske, the user needs to provide a name and email address to receive a prompt response.
 
 - The form can also be used by the user to book Aske for gigs.
 
