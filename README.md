@@ -90,7 +90,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
   - Home Page
     - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
   - Music Page
-    - Error: Bad value 100% for attribute width on element iframe: Expected a digit but saw % instead.
+    - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
   - Contact Page
     - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
    
@@ -125,5 +125,5 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
   - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
 
-  - Thanks to Alan, Ed, Kevin and Joshua from the Tutors team for helping med with diverse things.  
+  - Thanks to Alan, Ed, Kevin, Joshua and Sarah from the Tutors team for helping me with diverse things.  
  
