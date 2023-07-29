@@ -108,6 +108,10 @@ footer>a {
     margin: 0 250px;
 }
 
+iframe {
+    width: 100%;
+}
+
 #spotify {
     height: 355px;
 }
