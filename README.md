@@ -86,7 +86,19 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 The goal of the site is to provide comprehensive information about Aske Falk's sound and music.
 The first page contains information about various gigs so visitors can instantly feel welcome to take part of the artist's "whereabouts" and even visit some live performances as far as possible.
 
+### User Stories 
 
+#### As a site visitor I want to:
+
+- be able to navigate the site easily to find information.
+- get a quick and thorough overview of the site's features and functionalities.
+- read a brief and simple description of the artist and his music.
+- be able to view the entire YouTube video without any interruptions.
+- be able to preview songs on Spotify with just a single click;
+- have a simple way to get in touch with the artist if I have any queries.
+- be able to locate the links for both social media and Spotify.
+- be able to clearly see which page I am currenly viewing.
+  
 ## Testing
 
 ### Manual Testing
