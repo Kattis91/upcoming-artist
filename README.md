@@ -125,5 +125,21 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
   - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
 
-  - Thanks to Alan, Ed, Kevin, Joshua and Sarah from the Tutors team for helping me with diverse things.  
+  - Thanks to Alan, Ed, Kevin, Joshua and Sarah from the Tutors team for helping me with diverse things.
+
+### Deployment
+ 
+ 1. Log in to GitHub. If you haven't created an account yet, please sign up first.
+
+ 2. Find the repository for this project, _Kattis91/upcoming-artist_.
+
+ 3. Click on the **Settings** link on the top navigation bar.
+
+ 4. Click on the **Pages** link on the left side navigation bar. 
+
+ 5. In the Build and Deployment section choose **main** from the drop down select branch menu.
+
+ 6. Click **Save**. Your live Github Pages site is now deployed at the URL shown.
+
+
  
