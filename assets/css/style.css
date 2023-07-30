@@ -286,3 +286,14 @@ input[type=submit]:hover {
         max-width: 100%;
     }
 }
+
+/* For small screen sizes below 800px width */
+@media screen and (max-width: 410px) {
+
+    .events {
+        margin-right: 30px;
+    }
+
+    #menu>a {
+        margin-right: 5px;
+    }
