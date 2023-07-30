@@ -98,7 +98,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
  - On smaller devices:
 
-   - the Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
+   - The Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
 
    - The images displayed on both the Home page and Music page would only show the left side of the picture.
 
@@ -109,7 +109,8 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
    - Embedded Spotify links would be too close to each other making it hard to preview the songs.
 
    - The contact form would lost its shape, as only the left side would be visible.
-
+   
+  - On certain devices, such as the iPad Mini and iPad Air, there would to be a white space below the footer on the contact page.
 
  ## Credits
 
