@@ -89,7 +89,7 @@ h2 {
 footer {
     text-align: center;
     background-color: pink;
-    padding: 30px;
+    padding: 20px;
 }
 
 footer>a {
@@ -295,5 +295,6 @@ input[type=submit]:hover {
 
     footer>a {
         font-size: small;
+        padding: 3px;
     }
 }
