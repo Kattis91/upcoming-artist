@@ -272,7 +272,6 @@ input[type=submit]:hover {
         padding: 15px;
     }
 
-
     footer>a {
         padding: 10px;
     }
@@ -290,11 +289,14 @@ input[type=submit]:hover {
 /* For small screen sizes below 410px width */
 @media screen and (max-width: 410px) {
 
+    #menu>a {
+        margin-right: 5px;
+    }
+
     .events {
         margin-right: 30px;
     }
 
-    #menu>a {
-        margin-right: 5px;
+    footer>a {
+        font-size: small;
     }
-}
