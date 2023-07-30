@@ -108,6 +108,8 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
   
    - Embedded Spotify links would be too close to each other making it hard to preview the songs.
 
+   - The contact form would lost its shape, as only the left side would be visible.
+
 
  ## Credits
 
@@ -127,7 +129,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
   - Thanks to Alan, Ed, Kevin, Joshua and Sarah from the Tutors team for helping me with diverse things.
 
-### Deployment
+## Deployment
  
  1. Log in to GitHub. If you haven't created an account yet, please sign up first.
 
@@ -137,7 +139,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
  4. Click on the **Pages** link on the left side navigation bar. 
 
- 5. In the Build and Deployment section choose **main** from the drop down select branch menu.
+ 5. In the Build and Deployment section choose **main** from the drop-down select branch menu.
 
  6. Click **Save**. Your live Github Pages site is now deployed at the URL shown.
 
