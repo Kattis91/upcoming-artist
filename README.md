@@ -79,6 +79,13 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 - The form can also be used by the user to book Aske for gigs.
 
+## User Experience (UX)
+
+### Key Project Goal
+
+The goal of the site is to provide comprehensive information about Aske Falk's sound and music.
+The first page contains information about various gigs so visitors can instantly feel welcome to take part of the artist's "whereabouts" and even visit some live performances as far as possible.
+
 
 ## Testing
 
