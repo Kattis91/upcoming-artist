@@ -90,10 +90,12 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 | Navigation Bar (MUSIC) | When clicking on the "MUSIC" button, the user should be directed to the music page of the site | Click on MUSIC in the navigation bar at the top of the page | The user is directed to the music page of the site |
 | Navigation Bar (CONTACT) | When clicking on the "CONTACT" button, the user should be directed to the contact page of the site | Click on MUSIC in the navigation bar at the top of the page | The user is directed to the music page of the site |
 | Logo | When clicking on the Logo, the user should be directed to the home page of the site | Click on the Logo at the top right | The user is directed to the home page of the site |
-| YouTube video | When the :arrow_forward: icon is clicked, video starts to play and :pause_button: icon displays. When the :pause_button: is clicked, audio pauses and :arrow_forward: displays | Click :arrow_forward: icon / Click :pause_button: | Video plays and :pause_button: displays. Video pauses and :arrow_forward: displays
+| YouTube video | When the :arrow_forward: icon is clicked, video starts to play and :pause_button: icon displays. When the :pause_button: icon is clicked, video pauses and :arrow_forward: icon displays | Click :arrow_forward: icon / Click :pause_button: icon | Video plays and :pause_button: icon displays. Video pauses and :arrow_forward: icon displays
 | Link to Facebook | When clicked, links to Aske Falks Facebook page in a new tab | Click on link | The artists Facebook page opens in a new tab |
 | Link to Instagram | When clicked, links to Aske Falks Instagram page in a new tab | Click on link | The artists Instagram page opens in a new tab |
 | Link to Spotify | When clicked, links to Aske Falks Spotify page in a new tab | Click on link | The artists Spotify page opens in a new tab |
+| Spotify previews | When the :arrow_forward: icon is clicked, audio starts to play and :pause_button: icon displays. When the :pause_button: icon is clicked, audio pauses and :arrow_forward: icon displays | Click :arrow_forward: icon / Click :pause_button: icon | Audio plays and :pause_button: icon displays. Audio pauses and :arrow_forward: icon displays |
+
 
 
 ### Validator Testing 
