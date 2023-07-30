@@ -137,6 +137,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
  ### Media 
  
   - Both of the pictures are private and were taken by my friend.
+  - GNU Image Manipulation Program was used to resize the images.
   - The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
   - The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
 
@@ -144,11 +145,13 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
  
   - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
-  - I used Stack Overflow, W3Schools, and LMS to expand my knowledge and find new ideas.
+  - Instructions on how to to "keep footer where it belongs" are taken from [freeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
+
+  - I used Stack Overflow, W3Schools, GeeksForGeeks and LMS to expand my knowledge and find new ideas.
 
   - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
 
-  - Thanks to Alan, Ed, Kevin, Joshua and Sarah from the Tutors team for helping me with diverse things.
+  - Thanks to Alan, Ed, Kevin, Joshua, and Sarah from the Tutors team for helping me with diverse things.
 
 ## Deployment
  
