@@ -64,7 +64,9 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 ![image](assets/images/readme-images/spotify.jpg)
 
-- In this section, there are Spotify links embedded. By clicking on them, you can preview songs from three albums by the artist.-The user doesn't need a Spotify account to be able to preview.
+- In this section, there are Spotify links embedded. By clicking on them, you can preview songs from three albums by the artist.
+  
+- The user doesn't need a Spotify account to be able to preview.
 
 - If the user clicks on either the Spotify logo or the title of the album, they will be directed to the Spotify website where they can log in and listen to the entire album.
 
@@ -177,6 +179,8 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 ### Media 
  
 - Both of the pictures are private and were taken by my friend.
+- An image used for a favicon was downloaded from [Unsplash](https://unsplash.com/photos/PDX_a_82obo).
+- [Favicon Genertor](https://favicon.io/favicon-converter/) was used to generate a favicon from the image.
 - GNU Image Manipulation Program was used to resize the images.
 - The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
 - The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
