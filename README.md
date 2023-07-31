@@ -2,17 +2,17 @@
 
 Aske Falk is a website dedicated to a musician based in Malmö and focuses on reggae music. The site aims to cater to both Aske's existing fans and newcomers to his music, making everyone feel welcome and at home on the website.
 
-## _Features_
+## Features
 
 ### Navigation Bar
 
 ![image](https://github.com/Kattis91/upcoming-artist/assets/139248768/66008ed1-597a-448e-8e32-71cf0acf3efa)
 
- - The complete, responsive navigation bar contains links to the Heading, Home page, Music, and Contact pages. It appears the same on every page, making navigation easier.
+- The complete, responsive navigation bar contains links to the Heading, Home page, Music, and Contact pages. It appears the same on every page, making navigation easier.
 
- - This section enables the user to navigate through the pages seamlessly without relying on the "back button".
+- This section enables the user to navigate through the pages seamlessly without relying on the "back button".
 
- - By clicking on the heading, the user will be redirected to the home page every time.
+- By clicking on the heading, the user will be redirected to the home page every time.
 
 ### The home page image
 
@@ -45,7 +45,6 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 - This section includes a link to Spotify where users can find all the music.
 
 - The footer section remains consistent across all pages.
-
 
 ### The music page image 
 
@@ -105,7 +104,6 @@ The site will be targeted toward both Aske Falk's existing fans and "newcomers" 
 - navigate between different pages without using the "back button".
 - view the site on a range of device sizes.
 
-  
 ## Testing
 
 ### Manual Testing
@@ -126,8 +124,6 @@ The site will be targeted toward both Aske Falk's existing fans and "newcomers" 
 | Contact me form. Email address | When trying to submit the form without filling in an email address, the user should get an ":exclamation: Please fill out this field" error message | Click on submit button without filling in an email adress | The ":exclamation: Please fill out this field" error message appears when the email address field remains blank |
 | Contact me form. Email address. Format| When trying to submit the form without an "@" in the email address, the user should get an ":exclamation: Please include an "@" in the email adress" error message | Click on submit button without having an "@" in the email adress | The ":exclamation: Please fill out this field" error message appears when the email address field remains blank | The ":exclamation: Please include an "@" in the email adress" error message appears on the screen if missing an "@" |
 
-
-
 ### Validator Testing 
 
 - CSS
@@ -142,42 +138,42 @@ The site will be targeted toward both Aske Falk's existing fans and "newcomers" 
    
 ### Fixed Bugs
 
- - On smaller devices:
+- On smaller devices:
 
-   - The Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
+- The Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
 
-   - The images displayed on both the Home page and Music page would only show the left side of the picture.
+- The images displayed on both the Home page and Music page would only show the left side of the picture.
 
-   - The Youtube video would appear distorted and could be challenging to view.
+- The Youtube video would appear distorted and could be challenging to view.
   
-   - Without adjusting the footer, the link to Spotify would appear on a different line than the links to Facebook and Instagram. This would cause the alignment to look incorrect.
+- Without adjusting the footer, the link to Spotify would appear on a different line than the links to Facebook and Instagram. This would cause the alignment to look incorrect.
   
-   - Embedded Spotify links would be too close to each other making it hard to preview the songs.
+- Embedded Spotify links would be too close to each other making it hard to preview the songs.
 
-   - The contact form would lost its shape, as only the left side would be visible.
+- The contact form would lost its shape, as only the left side would be visible.
    
-  - On certain devices, such as the iPad Mini and iPad Air, there would to be a white space below the footer on the contact page.
+- On certain devices, such as the iPad Mini and iPad Air, there would to be a white space below the footer on the contact page.
 
- ## Credits
+## Credits
 
- ### Media 
+### Media 
  
-  - Both of the pictures are private and were taken by my friend.
-  - GNU Image Manipulation Program was used to resize the images.
-  - The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
-  - The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
+- Both of the pictures are private and were taken by my friend.
+- GNU Image Manipulation Program was used to resize the images.
+- The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
+- The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
 
- ### Content
+### Content
  
-  - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
+- Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
-  - Instructions on how to to "keep footer where it belongs" are taken from [freeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
+- Instructions on how to to "keep footer where it belongs" are taken from [freeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
 
-  - I used Stack Overflow, W3Schools, GeeksForGeeks and LMS to expand my knowledge and find new ideas.
+- I used Stack Overflow, W3Schools, GeeksForGeeks and LMS to expand my knowledge and find new ideas.
 
-  - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
+- Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
 
-  - Thanks to Alan, Ed, Kevin, Joshua, and Sarah from the Tutors team for helping me with diverse things.
+- Thanks to Alan, Ed, Kevin, Joshua, and Sarah from the Tutors team for helping me with diverse things.
 
 ## Deployment
  
