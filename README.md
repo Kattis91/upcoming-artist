@@ -158,19 +158,19 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 
 - On smaller devices:
 
-- The Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo.
+  - The Navigation Bar would lose its alignment, causing the menu items to shift to the left and appear under the site logo. Now the menu items are placed below the logo making it look responsive.
 
-- The images displayed on both the Home page and Music page would only show the left side of the picture.
+  - The images displayed on both the Home page and Music page would only show the left side of the picture. Now the user can see the entire image in the smaller format regardless of the size of the used device. It was solved by using "float" and "position" properties.
 
-- The Youtube video would appear distorted and could be challenging to view.
+  - The Youtube video would appear distorted and could be challenging to view. The problem is solved, making it possible for the user to see a good quality video regardless of the size of the used device.
   
-- Without adjusting the footer, the link to Spotify would appear on a different line than the links to Facebook and Instagram. This would cause the alignment to look incorrect.
+  - Without adjusting the footer, the link to Spotify would appear on a different line than the links to Facebook and Instagram. This would cause the alignment to look incorrect. Now all the links are placed on the same line. The issue was solved by reducing padding and font-size.
   
-- Embedded Spotify links would be too close to each other making it hard to preview the songs.
+  - Embedded Spotify links would be too close to each other making it hard to preview the songs. This problem is solved by placing the links on top of each other.
 
-- The contact form would lost its shape, as only the left side would be visible.
+  - The contact form would lost its shape, as only the left side would be visible. Now the form will adjust to the width of the screen thanks to the box-sizing property.
    
-- On certain devices, such as the iPad Mini and iPad Air, there would to be a white space below the footer on the contact page.
+  - On certain devices, such as the iPad Mini and iPad Air, there would to be a white space below the footer on the contact page. The space is removed by putting the content in the "container" and using a "min-height" property.
 
 ## Credits
 
