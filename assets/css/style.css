@@ -251,6 +251,10 @@ input[type=submit]:hover {
         margin-left: 10px;
     }
 
+    .events {
+        margin-right: 30px;
+    }
+
     .events>li {
         padding: 5px;
     }
@@ -273,8 +277,8 @@ input[type=submit]:hover {
     }
 }
 
-/* For small screen sizes below 410px width */
-@media screen and (max-width: 410px) {
+/* For small screen sizes below 415px width */
+@media screen and (max-width: 415px) {
 
     #menu>a {
         margin-right: 5px;
@@ -282,6 +286,10 @@ input[type=submit]:hover {
 
     .events {
         margin-right: 30px;
+    }
+
+    #about>p {
+        font-size: 80%;
     }
 
     footer>a {
