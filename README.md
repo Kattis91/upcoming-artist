@@ -193,5 +193,7 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 
  6. Click **Save**. Your live Github Pages site is now deployed at the URL shown.
 
+The live link can be found here - https://kattis91.github.io/upcoming-artist/
+
 
  
