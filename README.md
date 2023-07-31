@@ -88,16 +88,19 @@ The first page contains information about various gigs so visitors can instantly
 
 ### User Stories 
 
-#### As a site visitor I want to:
+#### As a site visitor I want to be able to:
 
-- be able to navigate the site easily to find information.
+- navigate the site easily to find information.
 - get a quick and thorough overview of the site's features and functionalities.
 - read a brief and simple description of the artist and his music.
-- be able to view the entire YouTube video without any interruptions.
-- be able to preview songs on Spotify with just a single click;
+- view the entire YouTube video without any interruptions.
+- preview songs on Spotify with just a single click;
 - have a simple way to get in touch with the artist if I have any queries.
-- be able to locate the links for both social media and Spotify.
-- be able to clearly see which page I am currenly viewing.
+- locate the links for both social media and Spotify.
+- clearly see which page I am currenly viewing.
+- navigate between different pages without using the "back button".
+- view the site on a range of device sizes.
+
   
 ## Testing
 
