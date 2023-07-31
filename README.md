@@ -142,7 +142,15 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 
 ### Lighthouse
 
-#### The home page
+#### Home page
+
+![image](assets/images/readme-images/lighthouse_home_page.png)
+
+#### Music page
+
+![image](assets/images/readme-images/lighthouse_music_page.png)
+
+#### Contact page
 
 ![image](assets/images/readme-images/lighthouse_home_page.png)
    
