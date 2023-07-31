@@ -2,6 +2,14 @@
 
 Aske Falk is a website dedicated to a musician based in Malmö and focuses on reggae music. The site aims to cater to both Aske's existing fans and newcomers to his music, making everyone feel welcome and at home on the website.
 
+## Wireframes
+
+Wireframes were created for desktop and mobile.
+
+  - [Home page wireframes](https://www.figma.com/file/IA1D4MooqefslpSf1EgHmR/Wireframes?type=design&node-id=0%3A1&mode=design&t=F4JKoRbtLifVr8BU-1)
+  - [Music page wireframes](https://www.figma.com/file/IA1D4MooqefslpSf1EgHmR/Wireframes?type=design&node-id=19%3A137&mode=design&t=F4JKoRbtLifVr8BU-1)
+- [Contact page wireframes](https://www.figma.com/file/IA1D4MooqefslpSf1EgHmR/Wireframes?type=design&node-id=21%3A202&mode=design&t=F4JKoRbtLifVr8BU-1)
+
 ## Features
 
 ### Navigation Bar
