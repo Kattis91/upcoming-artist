@@ -106,6 +106,10 @@ The site will be targeted toward both Aske Falk's existing fans and "newcomers" 
 
 ## Testing
 
+In order to thoroughly test my website, I conducted a series of tests on various browsers including Google Chrome, Safari, and Mozilla Firefox. I also tested on multiple devices such as the iPhone XS, iPhone 13 Pro, Samsung Galaxy S10, and Google Pixel 6a.
+
+I made sure to check every page using Google Chrome developer tools to confirm their responsiveness on various screen sizes.
+
 ### Manual Testing
 
 | Feature | Expect | Action | Result |
