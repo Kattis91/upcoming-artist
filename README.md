@@ -152,7 +152,7 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 
 #### Contact page
 
-![image](assets/images/readme-images/lighthouse_home_page.png)
+![image](assets/images/readme-images/lighthouse_contact_page.png)
    
 ### Fixed Bugs
 
