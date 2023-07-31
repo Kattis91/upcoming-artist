@@ -180,7 +180,7 @@ I made sure to check every page using Google Chrome developer tools to confirm t
  
 - Both of the pictures are private and were taken by my friend.
 - An image used for a favicon was downloaded from [Unsplash](https://unsplash.com/photos/PDX_a_82obo).
-- [Favicon Genertor](https://favicon.io/favicon-converter/) was used to generate a favicon from the image.
+- [Favicon Generator](https://favicon.io/favicon-converter/) was used to generate a favicon from the image.
 - GNU Image Manipulation Program was used to resize the images.
 - The link to the YouTube video on the Home Page has been embedded from [YouTube](https://www.youtube.com/watch?v=nTsaN-Arjac). I have made some modifications to the link.
 - The links to Spotify on the Music Page are sourced from [Spotify](https://open.spotify.com/artist/47TNB33Ux4tXEC8HX2YTrX). I have made some modifications to the links.
@@ -190,6 +190,8 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
 - Instructions on how to to "keep footer where it belongs" are taken from [freeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
+
+- Instructions on how to add a favicon in HTML are taken from [W3Schools](https://www.w3schools.com/html/html_favicon.asp).
 
 - I used Stack Overflow, W3Schools, GeeksForGeeks and LMS to expand my knowledge and find new ideas.
 
