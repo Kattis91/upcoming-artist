@@ -139,6 +139,12 @@ I made sure to check every page using Google Chrome developer tools to confirm t
     - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
   - Contact Page
     - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+
+### Lighthouse
+
+#### The home page
+
+![image](assets/images/readme-images/lighthouse_home_page.png)
    
 ### Fixed Bugs
 
