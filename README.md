@@ -205,6 +205,10 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 - Instructions on how to add a favicon in HTML are taken from [W3Schools](https://www.w3schools.com/html/html_favicon.asp).
 
+- [Google Fonts Site](https://fonts.google.com/) was used to import the fonts used on the website.
+
+- [Am I responsive?](https://ui.dev/amiresponsive?url=https://kattis91.github.io/upcoming-artist/) was used to see how the site looks on a range of devices.
+
 - I used Stack Overflow, W3Schools, GeeksForGeeks and LMS to expand my knowledge and find new ideas.
 
 - Thanks to my mentor Jubril for good briefings, feedback, tip and the opportunity to ask questions.
