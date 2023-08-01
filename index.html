@@ -17,61 +17,64 @@
 </head>
 
 <body>
-    <header>
-        <!--clicking on the heading, a user will always be directed to the home page of the site-->
-        <a href="index.html">
-            <h1>Aske Falk</h1>
-        </a>
-        <nav id="menu">
-            <!--a user will be able to see what page is viewed at the moment-->
-            <a href="index.html" class="active">Home</a>
-            <a href="music.html">Music</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-    </header>
+    <!--to keep footer on the bottom of the page-->
+    <div id="page-container">
+        <header>
+            <!--clicking on the heading, a user will always be directed to the home page of the site-->
+            <a href="index.html">
+                <h1>Aske Falk</h1>
+            </a>
+            <nav id="menu">
+                <!--a user will be able to see what page is viewed at the moment-->
+                <a href="index.html" class="active">Home</a>
+                <a href="music.html">Music</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </header>
 
-    <div>
-        <img src="assets/images/aske_playing_guitar3.webp" alt="Aske is sitting on a bench and playing guitar"
-            width="1600" height="900">
+        <div>
+            <img src="assets/images/aske_playing_guitar3.webp" alt="Aske is sitting on a bench and playing guitar"
+                width="1600" height="900">
+        </div>
+        <section>
+            <h2>Upcoming events</h2>
+            <div id="august">
+                <h3>August</h3>
+                <ul class="events">
+                    <li>5th August - Löderup, SWEDEN</li>
+                    <li>19th August - Maglehem, SWEDEN</li>
+                    <li>26th August - Helsingborg, SWEDEN</li>
+                </ul>
+            </div>
+            <div id="september">
+                <h3>September</h3>
+                <ul class="events">
+                    <li>9th September - Gothenburg, SWEDEN</li>
+                    <li>16th September - Copenhagen, DENMARK</li>
+                    <li>23th September - Oslo, NORWAY</li>
+                </ul>
+            </div>
+            <div id="october">
+                <h3>October</h3>
+                <ul class="events">
+                    <li>7th October - Stockholm, SWEDEN</li>
+                    <li>14th October - Bergen, NORWAY</li>
+                    <li>28th October - Oslo, NORWAY</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Check this one out!</h2>
+            <div class="youtube">
+                <!--the link has been embedded from youtube. I have deleted some properties-->
+                <iframe id="video" width="1038" height="584" src="https://www.youtube.com/embed/nTsaN-Arjac"
+                    title="Toviga Love &amp; Aske - Malmö Town (På Nobel)"></iframe>
+            </div>
+        </section>
     </div>
-    <section>
-        <h2>Upcoming events</h2>
-        <div id="august">
-            <h3>August</h3>
-            <ul class="events">
-                <li>5th August - Löderup, SWEDEN</li>
-                <li>19th August - Maglehem, SWEDEN</li>
-                <li>26th August - Helsingborg, SWEDEN</li>
-            </ul>
-        </div>
-        <div id="september">
-            <h3>September</h3>
-            <ul class="events">
-                <li>9th September - Gothenburg, SWEDEN</li>
-                <li>16th September - Copenhagen, DENMARK</li>
-                <li>23th September - Oslo, NORWAY</li>
-            </ul>
-        </div>
-        <div id="october">
-            <h3>October</h3>
-            <ul class="events">
-                <li>7th October - Stockholm, SWEDEN</li>
-                <li>14th October - Bergen, NORWAY</li>
-                <li>28th October- Oslo, NORWAY</li>
-            </ul>
-        </div>
-    </section>
-    <section>
-        <h2>Check this one out!</h2>
-        <div class="youtube">
-            <!--the link has been embedded from youtube. I have deleted some properties-->
-            <iframe id="video" width="1038" height="584" src="https://www.youtube.com/embed/nTsaN-Arjac"
-                title="Toviga Love &amp; Aske - Malmö Town (På Nobel)"></iframe>
-        </div>
-    </section>
 
-    <!--links go to the artist's pages on social media or to his page on Spotify that will open in new tabs-->
-    <footer>
+    <!--links go to the artist's pages on social media and to his page on Spotify and will open in new tabs-->
+    <footer class="fix">
         <a href="https://www.facebook.com/profile.php?id=100086767234880" rel="noopener" target="_blank"
             aria-label="Find me on Facebook (link opens in a new tab)">Facebook</i></a>
         <a href="https://instagram.com/askemannet?igshid=MzRlODBiNWFlZA==" rel="noopener" target="_blank"
