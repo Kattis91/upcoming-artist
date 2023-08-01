@@ -9,6 +9,7 @@ h1 {
     letter-spacing: 6px;
     margin: 0;
     line-height: 50px;
+    color: rgb(12, 12, 106);
 }
 
 /* navigation links */
@@ -27,6 +28,7 @@ h1 {
     text-decoration: none;
     text-transform: uppercase;
     font-family: jost, sans-serif;
+    color: rgb(12, 12, 106);
 }
 
 #menu a:hover {
@@ -99,6 +101,11 @@ footer>a {
     text-transform: uppercase;
     padding: 30px;
     margin: 0 auto;
+    color: rgb(12, 12, 106);
+}
+
+footer>a:hover {
+    font-weight: bold;
 }
 
 /* to keep footer where it belongs */
