@@ -51,6 +51,18 @@ h2 {
     font-size: xx-large;
 }
 
+#august>h3,
+#september>h3,
+#october>h3 {
+    text-align: center;
+    font-family: jost, sans-serif;
+    font-size: large;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
 .events {
     text-align: center;
 }
@@ -63,18 +75,6 @@ h2 {
     font-family: space-grotesk, sans-serif;
     background-color: pink;
     margin-top: 10px;
-}
-
-#august>h3,
-#september>h3,
-#october>h3 {
-    text-align: center;
-    font-family: jost, sans-serif;
-    font-size: large;
-    letter-spacing: 2px;
-    font-weight: bold;
-    text-decoration: underline;
-    text-transform: uppercase;
 }
 
 /* youtube video */
