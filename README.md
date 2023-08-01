@@ -4,7 +4,7 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 ## Wireframes
 
-Wireframes were created for desktop and mobile.
+Wireframes were created for desktop and mobile using [Figma](https://www.figma.com/)
 
   - [Home page wireframes](https://www.figma.com/file/IA1D4MooqefslpSf1EgHmR/Wireframes?type=design&node-id=0%3A1&mode=design&t=F4JKoRbtLifVr8BU-1)
   - [Music page wireframes](https://www.figma.com/file/IA1D4MooqefslpSf1EgHmR/Wireframes?type=design&node-id=19%3A137&mode=design&t=F4JKoRbtLifVr8BU-1)
@@ -93,7 +93,7 @@ Wireframes were created for desktop and mobile.
 ### Key Project Goal
 
 The goal of the site is to provide comprehensive information about Aske Falk's sound and music.
-The first page contains information about various gigs so visitors can instantly feel welcome to take part of the artist's "whereabouts" and even visit some live performances as far as possible.
+The first page contains information about various gigs so visitors can instantly feel welcome to the community and maybe even plan to visit some live performances.
 
 ### Target Audience 
 
@@ -116,7 +116,7 @@ The site will be targeted toward both Aske Falk's existing fans and "newcomers" 
 
 ## Testing
 
-In order to thoroughly test my website, I conducted a series of tests on various browsers including Google Chrome, Safari, and Mozilla Firefox. I also tested on multiple devices such as the iPhone XS, iPhone 13 Pro, Samsung Galaxy S10, and Google Pixel 6a.
+In order to thoroughly test my website, I conducted a series of tests on various browsers including Google Chrome, Safari, and Mozilla Firefox. I also tested on multiple devices such as iPhone XS, iPhone 13 Pro, Samsung Galaxy S10, and Google Pixel 6a.
 
 I made sure to check every page using Google Chrome developer tools to confirm their responsiveness on various screen sizes.
 
@@ -133,7 +133,7 @@ I made sure to check every page using Google Chrome developer tools to confirm t
 | Link to Instagram | When clicked, links to Aske Falk's Instagram page in a new tab | Click on link | The artist's Instagram page opens in a new tab |
 | Link to Spotify | When clicked, links to Aske Falk's Spotify page in a new tab | Click on link | The artist's Spotify page opens in a new tab |
 | Spotify previews | When the :arrow_forward: icon is clicked, audio starts to play and :pause_button: icon displays. When the :pause_button: icon is clicked, audio pauses and :arrow_forward: icon displays | Click :arrow_forward: icon / Click :pause_button: icon | Audio plays and :pause_button: icon displays. Audio pauses and :arrow_forward: icon displays |
-| Contact me form. Name inputs | When trying to submit the form without filling in the first or last name, the user should get an ":exclamation: Please fill out this field" error message | Click on submit button without filling in the first or last name (both or one of them) | The ":exclamation: Please fill out this field" error message appears when some of the name inputs fields remains blank |
+| Contact me form. Name inputs | When trying to submit the form without filling in the first or last name, the user should get an ":exclamation: Please fill out this field" error message | Click on submit button without filling in the first or last name | The ":exclamation: Please fill out this field" error message appears when some of the name inputs fields remains blank |
 | Contact me form. Textarea | When trying to submit the form without writing any message in the textarea, the user should get an ":exclamation: Please fill out this field" error message. | Click on submit button without writing any message in the textarea | The ":exclamation: Please fill out this field" error message appears when the textarea remains blank |
 | Contact me form. Email address | When trying to submit the form without filling in an email address, the user should get an ":exclamation: Please fill out this field" error message | Click on submit button without filling in an email adress | The ":exclamation: Please fill out this field" error message appears when the email address field remains blank |
 | Contact me form. Email address. Format| When trying to submit the form without an "@" in the email address, the user should get an ":exclamation: Please include an "@" in the email adress" error message | Click on submit button without having an "@" in the email adress | The ":exclamation: Please fill out this field" error message appears when the email address field remains blank | The ":exclamation: Please include an "@" in the email adress" error message appears on the screen if missing an "@" |
@@ -151,6 +151,8 @@ I made sure to check every page using Google Chrome developer tools to confirm t
     - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
 
 ### Lighthouse
+
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 
 #### Home page
 
@@ -197,7 +199,7 @@ I made sure to check every page using Google Chrome developer tools to confirm t
  
 - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
-- Instructions on how to to "keep footer where it belongs" are taken from [freeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
+- Instructions on how to to fix a sticky footer using flexbox are taken from [CSS-TRICKS](https://css-tricks.com/couple-takes-sticky-footer/).
 
 - Instructions on how to add a favicon in HTML are taken from [W3Schools](https://www.w3schools.com/html/html_favicon.asp).
 
