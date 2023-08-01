@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost&family=Space+Grotesk:wght@300&display=swap");
 
+
 a {
     text-decoration: none;
 }
@@ -109,8 +110,22 @@ footer>a:hover {
 }
 
 /* to keep footer where it belongs */
-#content-wrap {
-    min-height: 95vh;
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#page-container {
+    flex: 1 0 auto;
+}
+
+.fix {
+    flex-shrink: 0;
 }
 
 
