@@ -2,6 +2,8 @@
 
 Aske Falk is a website dedicated to a musician based in Malmö and focuses on reggae music. The site aims to cater to both Aske's existing fans and newcomers to his music, making everyone feel welcome and at home on the website.
 
+![image](assets/images/readme-images/am_i_responsive.jpg)
+
 ## Wireframes
 
 Wireframes were created for desktop and mobile using [Figma](https://www.figma.com/)
