@@ -200,7 +200,7 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 ### Content
  
 - The text for the about-section was written in Swedish by the artist. It was then translated into English by me.
-- 
+
 - Instructions on how to make YouTube video responsive are taken from [Embed a YouTube Video in HTML and Make it Responsive (CSS included)](https://www.youtube.com/watch?v=9YffrCViTVk).
 
 - Instructions on how to to fix a sticky footer using flexbox are taken from [CSS-TRICKS](https://css-tricks.com/couple-takes-sticky-footer/).
