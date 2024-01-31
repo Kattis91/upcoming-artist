@@ -4,6 +4,8 @@ Aske Falk is a website dedicated to a musician based in Malmö and focuses on re
 
 ![image](assets/images/readme-images/am_i_responsive.jpg)
 
+The live link can be found here - https://kattis91.github.io/upcoming-artist/
+
 ## Wireframes
 
 Wireframes were created for desktop and mobile using [Figma](https://www.figma.com/)
